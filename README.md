@@ -1,6 +1,6 @@
 # HR Data analytics- HR Domain[Power BI|Excel]
 
-• Designed a Power BI dashboard to to track employee data for HR Team, including working hours, attendance, performance and leaves. The dashobard streamlined HR processes and increased efficency.
+• Designed a Power BI dashboard to track employee data for the HR Team, including working hours, attendance, performance, and leaves. The dashboard streamlined HR processes and increased efficiency.
 • This Dashboard can save 3-4 hours of work for the HR daily
 
 link: https://app.powerbi.com/groups/me/reports/f162d03c-f35e-4a8c-8a59-77c7105e4a7f/ReportSection?experience=power-bi
